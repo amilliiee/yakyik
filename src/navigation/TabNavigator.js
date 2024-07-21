@@ -1,0 +1,1 @@
+// Tab navigator for switching between main screens

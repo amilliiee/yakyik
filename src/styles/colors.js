@@ -1,0 +1,1 @@
+// Color definitions used throughout the app
