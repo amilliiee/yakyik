@@ -87,7 +87,7 @@ A simple React Native application that mimics the front-end functionality of the
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/amilliiee/yakyik/blob/main/LICENSE) file for details.
 
 
 
